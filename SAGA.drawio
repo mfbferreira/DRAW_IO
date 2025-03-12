@@ -1,9 +1,107 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Página-1" id="3tcIQxDM0alBX7cr8j0G">
-    <mxGraphModel>
+    <mxGraphModel dx="3434" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="20" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NcCGQC2xSOGMmhSv-ju0-2" target="NcCGQC2xSOGMmhSv-ju0-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="510" />
+              <mxPoint x="160" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#001DBC;fillColor=#0050ef;shape=mxgraph.azure.server;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="290" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="870" y="220" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="305" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-5" value="VMware" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="250" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-10" value="Hyper-V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-11" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
+          <mxGeometry x="880" y="480" width="86.96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
+          <mxGeometry x="1053.04" y="480" width="86.96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" vertex="1" parent="1">
+          <mxGeometry x="880" y="420" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.wireguard;" vertex="1" parent="1">
+          <mxGeometry x="870" y="640" width="70.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-18" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="780" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.rdp_remoting_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="790" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-160" y="560" width="135.96" height="207.08000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-6" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="NcCGQC2xSOGMmhSv-ju0-22">
+          <mxGeometry y="82" width="135.96" height="125.08" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" vertex="1" parent="NcCGQC2xSOGMmhSv-ju0-22">
+          <mxGeometry x="34.230000000000004" width="67.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="96" y="560" width="135.96000000000004" height="207.08000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.rdp_remoting_file;pointerEvents=1;" vertex="1" parent="NcCGQC2xSOGMmhSv-ju0-23">
+          <mxGeometry x="37.980000000000004" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="NcCGQC2xSOGMmhSv-ju0-23">
+          <mxGeometry y="82" width="135.96" height="125.08" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="356" y="566" width="135.96000000000004" height="201.08000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="NcCGQC2xSOGMmhSv-ju0-24">
+          <mxGeometry x="43.98000000000002" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-20" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="NcCGQC2xSOGMmhSv-ju0-24">
+          <mxGeometry y="76" width="135.96" height="125.08" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1110" y="620" width="135.96" height="207.08000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-26" value="c" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="NcCGQC2xSOGMmhSv-ju0-25">
+          <mxGeometry y="82" width="135.96" height="125.08" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" vertex="1" parent="NcCGQC2xSOGMmhSv-ju0-25">
+          <mxGeometry x="34.230000000000004" width="67.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NcCGQC2xSOGMmhSv-ju0-1" target="NcCGQC2xSOGMmhSv-ju0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=0.243;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="320" as="sourcePoint" />
+            <mxPoint x="-90.26499999999987" y="557.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NcCGQC2xSOGMmhSv-ju0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.56;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="329.34" as="sourcePoint" />
+            <mxPoint x="426.8599999999999" y="560.6519999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
